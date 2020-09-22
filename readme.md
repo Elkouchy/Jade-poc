@@ -12,7 +12,5 @@ o    Les fichiers dockerfile + docker-compose
 
 o    La possibilité d’ajouter une base de données au choix
 
-o    Pas besoin de déploiement sur AWS
-
-o    Pas besoin d’interfaces graphiques
+o    déploiement sur AWS
 
